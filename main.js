@@ -1,4 +1,3 @@
-
 // Header Scroll
 let nav = document.querySelector(".navbar");
 window.onscroll = function () {
@@ -7,7 +6,7 @@ window.onscroll = function () {
     }else{
         nav.classList.remove("header-scrolled");
     }
-} 
+}
 
 // nav hide 
 let navBar = document.querySelectorAll(".nav-link");
@@ -17,6 +16,9 @@ navBar.forEach(function (a){
         navCollapse.classList.remove("show");
     })
 })
+
+
+
 
 document.querySelector(".btn1").addEventListener("click",function(){
             /* document.querySelector("body").style.backgroundColor="gray"; */
