@@ -26,6 +26,7 @@
         right: 0.3125rem;
         bottom: 0.3125rem;
     }
+   
 }
 
 @media (max-width:991px) {
@@ -58,6 +59,7 @@
         text-align: center;
         background-color: var(--bg-black);
         padding-bottom: 0.9375rem;
+        margin-top: -1rem;
     }
 
     .header_wrapper .nav-item .nav-link {

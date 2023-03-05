@@ -193,6 +193,9 @@ p {
     color: var(--text-white);
     display: inline-block;
 }
+.header_wrapper .menu-navbar-nav .link1{
+    margin-right: 0rem;
+}
 
 .header_wrapper .nav-item .nav-link.active,
 .header_wrapper .nav-item .nav-link:hover {
