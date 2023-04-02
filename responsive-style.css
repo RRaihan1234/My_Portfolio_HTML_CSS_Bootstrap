@@ -112,14 +112,16 @@
         font-size: 1rem;
     }
     .banner_wrapper .row1{
+        margin-top:-2rem;
         margin-bottom: 0.1rem;
+        font-size:1rem;
     }
     .banner_wrapper .row2{
         margin-bottom: 0.1rem;
         font-size: 1.5rem;
     }
     .banner_wrapper .row3{
-        font-size:0.8rem;
+        font-size:1rem;
     }
 
     .blog_wrapper .blog_details {
