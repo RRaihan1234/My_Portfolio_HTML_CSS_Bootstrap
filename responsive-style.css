@@ -114,6 +114,7 @@
         margin-top:-3rem;
         margin-bottom: 0.1rem;
         font-size:1rem;
+        font-size:0.75rem;
     }
     .banner_wrapper .row2{
         margin-bottom: 0.1rem;
@@ -141,7 +142,7 @@
         margin-bottom: 0.1rem;
     }
     .banner_wrapper .row3{
-        font-size:1rem;
+        font-size:0.75rem;
     }
 
     h1 {
