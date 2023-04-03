@@ -60,6 +60,7 @@
         background-color: var(--bg-black);
         padding-bottom: 0.9375rem;
         margin-top: -1rem;
+        padding-top: 1rem;
         margin-right:-2rem;
         margin-left:-2rem;
     }
