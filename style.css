@@ -216,7 +216,7 @@ p {
 
 /* 3 Banner */
 .banner_wrapper {
-    height:100vh;
+    /* height:100vh; */
     padding-top: 6.875rem;
     z-index: 1;
     /* background-image: url('../images/home-banner.png');
