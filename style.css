@@ -204,6 +204,10 @@ p {
     color: var(--primary-text);
 }
 
+.header_wrapper .hamburger{
+    margin-top: -0.3rem;
+}
+
 .header-scrolled {
     position: fixed;
     top: 0;
