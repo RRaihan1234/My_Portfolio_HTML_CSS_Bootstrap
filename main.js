@@ -181,29 +181,6 @@ document.querySelector(".btn7").addEventListener("click",function(){
             
 
 })
-document.querySelector(".btn8").addEventListener("click",function(){
-            /* document.querySelector("body").style.backgroundColor="gray"; */
-            let div1 = document.createElement("div");
-            
-            div1.style.background="rgb(0,0,0,0.5) url(./emp_info_storage.PNG) no-repeat center";
-            div1.style.backgroundSize="contain"
-           
-            div1.style.width = "100vw";
-            div1.style.height = "100vh";
-           
-            div1.style.cursor = "zoom-out";
-            div1.style.zIndex = "10000";
-            div1.style.position = "fixed";
-            div1.style.top = "0";
-            div1.style.left = "0";
-            document.querySelector("body").appendChild(div1)
-            div1.addEventListener("click",function(){
-                div1.remove();
-                
-             }) 
-            
-
-})
 document.querySelector(".btn9").addEventListener("click",function(){
             /* document.querySelector("body").style.backgroundColor="gray"; */
             let div1 = document.createElement("div");
@@ -248,6 +225,30 @@ document.querySelector(".btn10").addEventListener("click",function(){
                 
              }) 
             
+
+})
+
+document.querySelector(".btn11").addEventListener("click",function(){
+    /* document.querySelector("body").style.backgroundColor="gray"; */
+    let div1 = document.createElement("div");
+    
+    div1.style.background="rgb(0,0,0,0.5) url(./spms.PNG) no-repeat center";
+    div1.style.backgroundSize="contain"
+   
+    div1.style.width = "100vw";
+    div1.style.height = "100vh";
+   
+    div1.style.cursor = "zoom-out";
+    div1.style.zIndex = "10000";
+    div1.style.position = "fixed";
+    div1.style.top = "0";
+    div1.style.left = "0";
+    document.querySelector("body").appendChild(div1)
+    div1.addEventListener("click",function(){
+        div1.remove();
+        
+     }) 
+    
 
 })
  
